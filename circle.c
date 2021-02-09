@@ -10,5 +10,4 @@ are=pi*rad*rad;
 printf("Diameter : %.2f unit\n",dia);
 printf("Circumference : %.2f unit\n",cir);
 printf("Area : %.2f sq.unit\n",are);
-
 }
