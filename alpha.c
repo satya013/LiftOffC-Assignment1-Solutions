@@ -14,7 +14,7 @@ if((c>=65&&c<90)||(c>=97&&c<122))
          case 'A':
          case 'E':
          case 'I':
-         case 'O':
+	 case 'O':
          case 'U':
              printf("%c is a vowel",c);
 		     break;
