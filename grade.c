@@ -18,5 +18,5 @@ else if(perc>=40)
     printf("Grade : E");
 else
     printf("Grade : F");
-	
+
 }
